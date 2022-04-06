@@ -1,7 +1,7 @@
 {
-  "name": "minimal-ts-project-boilerplate",
-  "description": "",
-  "version": "0.0.1",
+  "name": "@akolos/s3-object-location-parsing",
+  "description": "Utilities for parsing S3 object keys and location/source strings.",
+  "version": "1.0.0",
   "main": "build/cjs/index.js",
   "module": "build/index.js",
   "types": "build/index.d.ts",
