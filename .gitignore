@@ -70,7 +70,6 @@ typings/
 .vuepress/dist
 sqlite-test.db
 
-build
-build/**
+dist
 
 .rpt2_cache
